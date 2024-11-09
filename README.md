@@ -42,4 +42,5 @@ Pada tahap awal, Python akan meminta pengguna memasukkan bilangan berulang kali.
 
 
 
-(https://github.com/yanuars1/Latihan-pratikum.git/github.png)
+https://github.com/yanuars1/Latihan-pratikum.git/<img width="960" alt="github" src="https://github.com/user-attachments/assets/8f5245d5-721a-445f-a7a3-2a99331fe7e5">
+
