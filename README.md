@@ -42,4 +42,4 @@ Pada tahap awal, Python akan meminta pengguna memasukkan bilangan berulang kali.
 
 
 
-![Uploading image.png…]()
+https://github.com/yanuars1/Latihan-pratikum.git/github.png
