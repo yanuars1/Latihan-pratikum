@@ -39,5 +39,7 @@ bilangan terbesar= 999
 ## Cara Kerja Program
 Pada tahap awal, Python akan meminta pengguna memasukkan bilangan berulang kali. Jika bilangan lebih besar dari nilai sebelumnya, bilangan tersebut disimpan sebagai yang terbesar. Proses berhenti saat pengguna memasukkan 0, dan program mencetak bilangan terbesar yang telah dimasukkan.
 
-github.png
 
+
+
+![Uploading image.png…]()
